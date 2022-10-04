@@ -5,7 +5,7 @@ title: ZM Relay - ZWave
 
 {% include base.html %}
 
-# ZM Relay Heati Single Relay 16A
+# Heatit ZM Single Relay 16A
 This describes the Z-Wave device *ZM Relay*, manufactured by *ThermoFloor* with the thing type UID of ```thermofloor_zmrelay_00_000```.
 
 The device is in the category of *Battery*, defining Batteries, Energy Storages.
